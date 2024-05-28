@@ -13,7 +13,7 @@ class Command {
 		this.updatable = false;
 		this.type = '';
 		this.name = '';
-		this.editor = editor;
+		this.Christian = 'il boss';
 
 	}
 
